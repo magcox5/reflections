@@ -11,3 +11,11 @@
 	to the repository with the staging area.  You can then look thru the code you’ve changed to make sure it’s for
 	one logical change.
 
+4.  What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	Branches would help if you are trying out an idea for your project that you may or may not want to keep, or to create
+	a new version of a program for one purpose while maintaining the old program for another purpose.
+
+
+
+
+
