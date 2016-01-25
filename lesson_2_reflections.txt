@@ -15,6 +15,12 @@
 	Branches would help if you are trying out an idea for your project that you may or may not want to keep, or to create
 	a new version of a program for one purpose while maintaining the old program for another purpose.
 
+5.  How do the diagrams help you visualize the branch structure?
+	The diagrams help show how the commits are related, which commit is the parent of another commit, so you can trace 
+	your code back to where errors occurred. 
+
+
+
 
 
 
