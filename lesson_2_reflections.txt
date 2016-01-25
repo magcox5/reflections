@@ -19,6 +19,14 @@
 	The diagrams help show how the commits are related, which commit is the parent of another commit, so you can trace 
 	your code back to where errors occurred. 
 
+6.  What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	When you merge 2 branches together, you combine the changes included in the 2 files.
+	The diagram shows that the merged commit has 2 parents instead of just one.
+
+7.  What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	pros - fast and simple
+	cons - may not merge correctly;  may have unintended consequences of merge
+
 
 
 
