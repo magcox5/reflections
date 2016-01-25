@@ -5,3 +5,9 @@
 2.  How is the staging area different from the working directory and the repository? What value do you think it offers?
 	The staging area is where you put all the files you would like to put into the repository on the next commit.
 	It lets you purposefully manage which files you are working with.
+
+3.  How can you use the staging area to make sure you have one commit per logical change?
+	You can add files you have changed to the staging area, then do a diff —-staging to compare what you’ve already added
+	to the repository with the staging area.  You can then look thru the code you’ve changed to make sure it’s for
+	one logical change.
+
