@@ -7,3 +7,15 @@
     When you pull changes, you're bringing those changes down into your working directory.
     If you're working on changes to a file that someone else is changing at the same time,
     you would not want your changes to be superceded by the pull.
+
+3.  Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	Fork on GitHub clones a repository of another user into your GitHub repository.  You would use Fork
+	     if you do not have permission to change the repository you are cloning from, but you want to 
+	     acknowledge the source of the files.
+	Clone is used to copy a repository from GitHub to your local machine so you can modify or add to
+		 the repository.
+	Branch is used to create a new path from the master branch on your repository, so you can add new
+	     files that may or may not end up in your final master branch. Say you want to add a new 
+	     feature to your program, but you're not sure if you can get it to work.  You could branch off
+	     the master and try it out:  if successful, you can merge the changes back into the master.
+	     If not, no one else will be impacted by your changes, since you have it on a separate branch.
