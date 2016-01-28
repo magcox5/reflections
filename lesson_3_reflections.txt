@@ -35,4 +35,12 @@
 	changes, but at least you have a system to manage them.  It would be easier in the short run to 
 	just informally get together with your colleagues and combine your code, especially if your files are 
 	separate from theirs, but in the long run, you'll have better quality if you use version control.
+
+6.  When would you want to make changes in a separate branch rather than directly in master? What benefits 
+	does each approach have?
+	If you are working on a team, you would want to create a branch from the master.  You could then make
+	your changes without worrying that you were breaking anyone else's code, and then make a 
+	pull request to have your changes merged into the master.
+	If you are working on your own, you may not want to branch... there are fewer steps to perform, and
+	hopefully, you won't have any conflicts with your own code.
 	 
