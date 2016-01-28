@@ -19,3 +19,11 @@
 	     feature to your program, but you're not sure if you can get it to work.  You could branch off
 	     the master and try it out:  if successful, you can merge the changes back into the master.
 	     If not, no one else will be impacted by your changes, since you have it on a separate branch.
+
+4.  What is the benefit of having a copy of the last known state of the remote stored locally?
+	If you have the last known state of the remote stored locally, you can:
+	-- Work offline on the program
+	-- Locally compare your repository to the remote snapshot (git diff, git log...)
+	   Maybe you want to make changes to a file, and you want to see if anyone else has changed it
+	   since your last sync
+	 
