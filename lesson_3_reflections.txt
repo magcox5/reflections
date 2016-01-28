@@ -26,4 +26,13 @@
 	-- Locally compare your repository to the remote snapshot (git diff, git log...)
 	   Maybe you want to make changes to a file, and you want to see if anyone else has changed it
 	   since your last sync
+
+5.  How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	Without Git and GitHub, you would have to track changes you made to the files yourself.  You'd have
+	to come up with your own system for managing changes, and if would be hard to maintain the capability
+	to roll back changes if you found an error.  Git and GitHub have overhead associated with them, like
+	remembering to commit changes for each logical program change, and space to maintain all those 
+	changes, but at least you have a system to manage them.  It would be easier in the short run to 
+	just informally get together with your colleagues and combine your code, especially if your files are 
+	separate from theirs, but in the long run, you'll have better quality if you use version control.
 	 
